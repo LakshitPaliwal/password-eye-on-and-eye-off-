@@ -1,6 +1,8 @@
+    ``` js
 //its just a pseudo Code in react native
 
-    const [data,setData] = React.useState({
+
+const [data,setData] = React.useState({
         email: '',
         password: '',
         secureTextEntry: true,
@@ -43,3 +45,4 @@
                  :null}   
                                      {/* other it give null */} 
 </View>
+```

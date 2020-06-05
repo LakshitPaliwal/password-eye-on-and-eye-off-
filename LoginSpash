@@ -1,4 +1,4 @@
-    ``` js
+  
 //its just a pseudo Code in react native
 
 
@@ -45,4 +45,4 @@ const [data,setData] = React.useState({
                  :null}   
                                      {/* other it give null */} 
 </View>
-```
+

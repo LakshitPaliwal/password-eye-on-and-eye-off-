@@ -3,4 +3,4 @@ By using setState check-circle appear when someone enter Email and  user can see
   
   
   
-![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/39520168/83954789-eaa5fa80-a869-11ea-9b69-b8ba8b29889f.gif)
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/39520168/83954893-b8e16380-a86a-11ea-8d6b-0c579dba4dfb.gif)

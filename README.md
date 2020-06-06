@@ -3,4 +3,4 @@ By using setState check-circle appear when someone enter Email and  user can see
   
   
   
-![Screenrecorder password Eye Off On](https://user-images.githubusercontent.com/39520168/83954408-96e5e200-a866-11ea-8371-c13ec19f5885.gif)
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/39520168/83954712-2f7d6180-a869-11ea-902c-4f3ab4132102.gif)

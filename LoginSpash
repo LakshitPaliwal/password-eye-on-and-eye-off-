@@ -1,6 +1,6 @@
   
 //its just a pseudo Code in react native
-
+//eye-off and check-circle with setState	
 
 const [data,setData] = React.useState({
         email: '',
